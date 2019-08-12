@@ -1,5 +1,5 @@
 {
-  "description": "CORE II forcing",
+  "description": "CORE2 NYF forcing",
   "inputs": [
     {
       "filename": "INPUT/ncar_rad.0001.nc",
